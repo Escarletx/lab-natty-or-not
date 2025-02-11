@@ -11,7 +11,8 @@ IA Generativa Leonardo.AI para gerar as imagens do e-book
 Com a ajuda do meu querido fã de street fight tive a ideia de fazer um e-book dos combos do Ryu. Iniciei criando um roteiro com o ChatGPT para otimizar a informação dos melhores combos. Para uma toque de identidade, realizei a criação do e-book utilizando o canvas e a IA generativa Leonardo.AI para criar o cenário de capa e das subdivisões dos capítulos do e-book.
 
 ## 🚀 Resultados
-e-book Ryu Guide: link
+Este projeto teve como resultado um e-Book com conteúdo claro e divertido e designer atrativo. 
+[e-Book Ryu Combo Guide](https://drive.google.com/file/d/14r5k1SSFkdUPUk14-QxfJ4SBJ9uWkMzN/view?usp=sharing)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Contribuir nesse projeto para criar algo "natty" com a ajuda de IA, me fez despertar a criatividade em algo que eu e uma pessoa querida gostamos e me fez perceber que podemos criar coisas simples e legais rapidamente.
